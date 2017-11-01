@@ -1,0 +1,11 @@
+cf-api-url: https://api.sys.longs.pal.pivotal.io
+cf-username: rahul_vailapully@syntelinc.com
+cf-password: e29f17b9
+cf-org: rvailapully-pal
+github-repository: git@github.com:rahul09912/pal-tracker.git
+github-private-key: |
+  -----BEGIN RSA PRIVATE KEY-----
+  -----END RSA PRIVATE KEY-----
+
+
+
